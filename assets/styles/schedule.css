@@ -3,7 +3,7 @@
     display: flex;
     justify-content: center;
     width: 100%;
-    padding: 5% 0%;
+    /* padding: 5% 0%; */
 }
 section {
     width: 80%;
@@ -11,7 +11,7 @@ section {
 .scheduleSection {
     position: relative;
     height: 60vh;
-    margin: 0% auto 40%;
+    margin: 10% auto 10%;
 }
 
 .scheduleSection .section-center {
@@ -240,6 +240,7 @@ section {
 .asideSection {
     text-align: justify;
     width: 80%;
+    margin: 3% auto 0%;
 }
 
 #schedGuide {
