@@ -42,10 +42,19 @@ Maitri Patel
 
 - Cat Grooming Page 
     - In this page for the project feature two I have added the different kind of button linked with the javascript and I have added product card with the price including css and also added the cat grooming form for it's appointment.
+ 
+ - Cat gallery
+    In this page I have added the various features like firstly added the search bar which can help you to find the cat breed and secondly have added the post card which contains the cat experts.Whole page contains the css,html and javascript
 
 Chintan Bhensdadiya
 - Landing Page
-    - It contains some articles and available pets for adoption. I added more content and sub pages which are articles about the mentioned topics and added JS for back to top.
+    - It contains some articles and available pets for adoption. I added more content and sub pages which are articles about the mentioned topics and added JS for back to top, js carousel and make an account form which is validated.
+
+-Pet information Page
+    - Its showing a list of articles and some pets to adopt and at the end there is a form in which user can send a message to ask questions. Designed it with percentages to try and make it better responsive. It also have  a back to top feature.
+ 
+-Videos Page
+    - My last page is very simople and it contains various videos in the list to make a good information center. With the form validated and user can share links to us. And it also has a back to top feature.
 
 Luis Estrada
 - Pet Gallery Page

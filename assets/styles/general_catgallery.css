@@ -139,7 +139,7 @@ button {
 /* MAIN */
 main {
     overflow: hidden;
-    background: url(../images/General/bodyBg.jpg) center center;
+    background: url(../images/Pages/General/bodyBg.jpg) center center;
     background-size: 150px;
     background-repeat: repeat;
     width: 100%;
@@ -173,7 +173,7 @@ footer {
     bottom: 0;
     height: auto;
     left: 0;
-    position: relative;
+    position: absolute;
     width: 100%;
     background-color: #0C1D36;
 }
@@ -340,9 +340,9 @@ footer {
     }
     .about-row > ul> li {
         font-size: 1.3em;
-        padding: 10%;
+        padding: 5%;
         margin: 5% auto;
-        width: 75%;
+        width: 85%;
     }
     /* GALLERY */
     section > h2 {
@@ -403,12 +403,8 @@ footer {
     }
 
     /* MAIN */
-    body {
-        min-width:1024px;
-    }
     main {
         width: 100%;
-        margin-bottom: 25%;
     }
     main > h2 {
         width: 90%;
@@ -425,12 +421,20 @@ footer {
         margin-top: 0;
         margin-left: 10px;
     }
+    #aboutContent > div > img {
+        height: 100%;
+    }
+    #aboutContent > .about-row{
+        flex-flow: row;
+    }
     .about-row > p {
         padding: 5%;
         margin: 0;
     }
-    #quizContainer {
-        bottom: 200px;
+    #foundersImg {
+        width: 40% !important;
+        margin: 1% !important;
+        height: 100%;
     }
 
     /* FOOTER */
